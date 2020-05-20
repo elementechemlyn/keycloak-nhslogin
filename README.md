@@ -18,7 +18,9 @@ You can find `keycloak-nhslogin-ear-<version>.ear` under `ear/target` directory.
 
 ### NHS Login  
 
-There is an on-boarding process for NHS Login which will be documented here shortly.  
+There is an on-boarding process for NHS Login which will be documented here shortly and details of which can be found here:  
+
+https://nhsconnect.github.io/nhslogin/
 
 Before on-boarding has started and you've been given access to the sandpit environment the online mock environment can be used:  
 
