@@ -32,9 +32,9 @@ This online mock requires no setup or registration.
 The private key for the mock environment can be found in the guidance section here:  
 https://oidc.mock.signin.nhs.uk/client
 
-- Add NHS Login Identity Provider to the realm which you want to configure. It will be listed under the Social section.
+- Add NHS Login Identity Provider to the realm you want to configure. It will be listed under the Social section.
 
-- Configure the provider using the well known configuration for the environbment being used.  
+- Configure the provider using the well known configuration for the environment being used.  
 The configuration for the mock can be found at the url:  
 
 https://oidc.mock.signin.nhs.uk/.well-known/openid-configuration
